@@ -325,6 +325,11 @@ h3 {
 .deals-content button {
   margin-top: 16px;
 }
+.deals-btn {
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+}
 
 /* footer section styles  */
 .footer-section {
