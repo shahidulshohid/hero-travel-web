@@ -307,6 +307,7 @@ h3 {
   font-size: 24px;
   font-weight: 800;
   text-align: left;
+  margin-top: 40px;
 }
 .deals-content .deals-content-description {
   color: rgb(90, 90, 93);
@@ -323,7 +324,7 @@ h3 {
   margin-bottom: 16px;
 }
 .deals-content button {
-  margin-top: 16px;
+  margin-top: 30px;
 }
 .deals-btn {
   margin-top: 30px;
@@ -481,6 +482,9 @@ h3 {
   .btn-primary {
     width: 100%;
     margin: 1rem 0;
+  }
+  .deals-content {
+    padding: 30px;
   }
   .popular-section,
   .row-1,
