@@ -71,10 +71,11 @@ li {
   justify-content: center;
   align-items: center;
 }
-.explore-container h3 {
+.explore-container .explore-title {
   font-size: 4rem;
   font-weight: 800;
   color: white;
+  text-align: center;
 }
 .explore-container p {
   color: rgb(255, 255, 255);
